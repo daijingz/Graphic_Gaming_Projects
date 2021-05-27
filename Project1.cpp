@@ -1,5 +1,5 @@
 // Name: Jingze Dai
-// Assumption 1£º For the displayed graph, it has background color white.
+// Assumption 1Â£Âº For the displayed graph, it has background color white.
 
 #include <iostream>
 #include "gl/glut.h"
@@ -7,7 +7,7 @@ using namespace std;
 
 // Vertex Array Includes x, y and z coordinates of a point in 3D system
 typedef GLfloat vertex3 [3];
-// Vertex list of different shapes £¨Body cube, Ground rectangle, Top pyramid£©
+// Vertex list of different shapes Â£Â¨Body cube, Ground rectangle, Top pyramidÂ£Â©
 vertex3 Cube[8] = {{0,0,0}, {0,1,0}, {1,0,0}, {1,1,0}, {0,0,1}, {0,1,1}, {1,0,1}, {1,1,1}};
 vertex3 Rect[4] = {{-1.0f, 0.0f, -0.5f}, {2.0f, 0.0f, 2.5f}, {-1.0f, 0.0f, 2.5f}, {2.0f, 0.0f, -0.5f}};
 vertex3 Pyramid[5] = {{0.5f, 1.5f, 0.5f}, {-0.2f, 1.0f, -0.2f}, {-0.2f, 1.0f, 1.2f}, {1.2f, 1.0f, -0.2f}, {1.2f, 1.0f, 1.2f}};
@@ -135,5 +135,5 @@ void main(int argc, char **argv){
 
 	initialize(); // Run initialize function and initialize background issues
 
-    glutMainLoop(); // Enter GLUT main loop
+	glutMainLoop(); // Enter GLUT main loop
 }
