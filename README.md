@@ -13,7 +13,8 @@ This part is a group of implementations of OpenGL advanced programming. Compared
 This part is a 
 
 # Contact
-daij24@mcmaster.ca
-**(preferred)**
+**Preferred Email**: daij24@mcmaster.ca
+**Email**: david1147062956@163.com
 
-david1147062956@163.com
+**Linkedin Account**: https://www.linkedin.com/in/jingze-dai/
+**Github Account**: https://github.com/daijingz 
