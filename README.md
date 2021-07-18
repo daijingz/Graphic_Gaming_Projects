@@ -13,7 +13,7 @@ This part is a group of implementations of OpenGL advanced programming. Compared
 This part is a combinations of previous OpenGL techniques.
 
 ### Part 4: Unix gaming
-Unix is important in today's game graphic development.
+Unix is important in today's game graphic development. This part includes a group of unix application programs.
 
 # Contact
 **Preferred Email**: daij24@mcmaster.ca
