@@ -10,7 +10,7 @@ This part includes hundreds of implementations of OpenGL basic programming, each
 This part is a group of implementations of OpenGL advanced programming. Compared with module 1, all of techniques and tools it has are advanced programming techniques and tools. Some programs may include applications on computer graphics. To understand the code please read the comments on appropriate places and documentations. Each program is rendering an expected image, so each program includes a screenshot to represent expected output of image. (named output, usually JPEG format, however it may have other formats) **Before looking at contents, please read those instructions carefully.**
 
 ### Part 3: OpenGL Scene Rendering
-This part is a combinations of previous OpenGL techniques.
+This part is a combinations of previous OpenGL techniques. Its expected output is a scene (rendered by OpenGL)
 
 ### Part 4: Unix gaming
 Unix is important in today's game graphic development. This part includes a group of unix application programs.
