@@ -12,7 +12,7 @@ This part is a group of implementations of OpenGL advanced programming. Compared
 ### Part 3: OpenGL Scene Rendering
 This part is a combinations of previous OpenGL techniques. Its expected output is a scene (rendered by OpenGL)
 
-### Part 4: Unix gaming
+### Part 4: Unix Development
 Unix is important in today's game graphic development. This part includes a group of unix application programs.
 
 # Contact
